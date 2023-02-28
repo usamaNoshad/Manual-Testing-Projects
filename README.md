@@ -1,1 +1,1 @@
-Test cases of VWO Login Page
+Test Scenarios & Test cases of VWO Login Page
